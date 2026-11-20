@@ -51,6 +51,7 @@ public class PlayerJump : MonoBehaviour
 
 
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/541d9a99-d0d7-4f17-8408-45ea82269b3d" />
 
 
 
