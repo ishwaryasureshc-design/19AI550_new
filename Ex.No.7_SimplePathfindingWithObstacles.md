@@ -80,6 +80,7 @@ float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDista
 transform.position = startPos + new Vector3(movement, 0, 0);
 ### Output:
 
+<img width="1672" height="941" alt="Unity Pathfinding Around Obstacles" src="https://github.com/user-attachments/assets/206b3f77-cc17-45c5-98f6-be636e468d4c" />
 
 
 
